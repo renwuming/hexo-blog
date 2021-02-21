@@ -1,0 +1,43 @@
+# main menu navigation
+menu:
+  Home: /
+  # About: /about
+  Archive: /archives
+
+widgets:
+  - tag
+  - archive
+  - recent_posts
+  - category
+
+# social config
+social:
+  github: renwuming
+  email: renwuming@foxmail.com
+  qq: 460528457
+  wechat: ren-wuming
+  zhihu: people/ren-wu-ming
+  twitter:
+  facebook:
+  linkedin:
+  instagram:
+
+user:
+  name: 任无名
+  avatar: /images/avatar.png
+  location: 北京
+  description: 人似秋鸿，事如春梦
+
+# documents: https://github.com/utterance/utterances
+# API config: https://utteranc.es/
+comment_utteranc:
+  enable: true
+  repo: renwuming/hexo-blog # your blog repo
+
+# dark
+# light
+# user-can-set
+appearance: auto # Default value is auto
+
+# Miscellaneous
+favicon: /images/favicon.ico
