@@ -9,8 +9,6 @@ categories:
 
 
 
-{% asset_img example.jpg This is an example image %}
-
 ![example](example.jpg)
 
 ![example](example.jpg)

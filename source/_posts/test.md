@@ -9,7 +9,7 @@ categories:
   - [分类2]
 ---
 
-{% asset_img example.jpg This is an example image %}
+![example](example.jpg)
 
 <br/>
 
